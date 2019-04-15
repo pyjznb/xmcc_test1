@@ -1,0 +1,12 @@
+Starting DemoApplication on 蒲勇君 with PID 1868 (E:\demo\target\classes started by Administrator in E:\demo)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8888 (http)
+Initializing ProtocolHandler ["http-nio-8888"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 716 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8888"]
+Tomcat started on port(s): 8888 (http) with context path ''
+Started DemoApplication in 1.739 seconds (JVM running for 2.514)
